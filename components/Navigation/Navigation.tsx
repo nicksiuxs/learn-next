@@ -4,6 +4,7 @@ import React from "react";
 const routes = [
   { label: "Home", route: "/" },
   { label: "About", route: "/about" },
+  { label: "Posts", route: "/posts" },
 ];
 
 const Navigation = () => {
